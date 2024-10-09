@@ -1,0 +1,1 @@
+This repository contains the exercises and projects I completed as part of the CS61B course: Data Structures, offered by UC Berkeley. CS61B focuses on advanced data structures, algorithms, and software engineering techniques using Java.
